@@ -8,7 +8,8 @@
 
 ### Creating a table instance
 ``` java
-DBManager dbManager = new DBManager(this, "example", new String[][] {
+DBManager dbManager = new DBManager(this, "instanceName");
+dbManager.createTable("tableName", new String[][] {
     { "ID", "INTENGER PRIMARY KEY AUTOINCREMENT" },
     { "name", "TEXT" },
     { "age", "INTEGER"},
