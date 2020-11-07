@@ -1,4 +1,4 @@
-package com.myProject.pathToThisFile;
+package myprojectpackage;
 
 import android.content.ContentValues;
 import android.content.Context;
