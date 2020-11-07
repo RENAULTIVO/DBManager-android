@@ -19,7 +19,7 @@ dbManager.createTable("tableName", new String[][] {
     { "blob_name", "BLOB" }
 });
 ```
-- After that, you don't need to recreate your table in any part of your app, the table settings will be safe in an internal table called "dbManager".
+- After that, you don't need to recreate your table in any part of your app, the table settings will be safe in an internal table.
 
 ### Get a table instance (after you have created it)
 ``` java
