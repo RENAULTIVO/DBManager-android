@@ -22,6 +22,6 @@ DBManager dbManager = new DBManager(this, "example", new String[][] {
 DBManager tableInstance = dbManager.getTable("example");
 ```
 
-See the [DBManager-android documentation](https://github.com/renaultivo/DBManager-android)<br><br>
+See the [DBManager-android documentation](https://github.com/renaultivo/DBManager-android)
 
 ### Make database implementation on android easier and faster
