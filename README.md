@@ -11,7 +11,7 @@
 // Create DBManager instance
 DBManager dbManager = new DBManager(this, "instanceName");
 
-//Create table
+// Create table
 dbManager.createTable("tableName", new String[][] {
     { "ID", "INTENGER PRIMARY KEY AUTOINCREMENT" },
     { "name", "TEXT" },
