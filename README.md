@@ -1,4 +1,4 @@
-# DBManager-android
+# DBManager for android
 - Android SQLite DataBase manager
 - Make database implementation on android easier and faster
 
