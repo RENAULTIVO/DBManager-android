@@ -1,6 +1,6 @@
 # DBManager for android
-- Android SQLite DataBase manager
-- Make database implementation on android easier and faster
+Android SQLite DataBase manager
+Make database implementation on android easier and faster
 
 ## Lib Goals
 - [x] Get a complete Sqlite instance with just one code line
